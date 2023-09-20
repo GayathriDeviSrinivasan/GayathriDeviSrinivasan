@@ -39,6 +39,5 @@ I am an active volunteer for several organizations, including Google Developer G
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gayathridevisrinivasan&show_icons=true&theme=dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathridevisrinivasan&theme=dark" />
 </p>
 
